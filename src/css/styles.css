@@ -1,0 +1,58 @@
+body{
+    background: white;
+    font-family: 'Open Sans', sans-serif;
+}
+#logo{
+    height: 30px;
+    width:150px;
+}
+#map{
+    max-width: 100%;
+    max-height: 60vh;
+}
+#infoBox{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #FDFDFD;
+    font-family: 'Noto Serif JP', sans-serif;
+}
+#svg{
+    width: 100%;
+    height: auto;
+}
+.ui.menu span b {
+    padding-right: 4px;
+    color: #0d71bb;
+}
+
+#loader{
+    width: 548px;
+    height: 100px;
+    overflow:hidden;
+    background-color: white;
+    border-radius: 15px;
+}
+#loader img{
+    height: 100px;
+    width: 1096px;
+}
+
+#loaderText{
+    width: 100%;
+    padding-bottom: 20px;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+
+}
+
+#heatmap {
+    margin: 0 auto 50px;
+
+    width: 860px;
+    height: 400px;
+}
+
+#content {
+    width: 860px;
+}
